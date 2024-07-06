@@ -1,0 +1,31 @@
+.Para{
+    background-color: antiquewhite;
+    margin: 10px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px violet;
+}
+h2{
+    text-align: center;
+    text-emphasis-color: var(font-size);
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h5{
+    font-size: 50px;
+    margin: 0;
+    color: aliceblue;
+    font-style: italic;
+    /* text-decoration: aliceblue; */
+    background-color: blue;
+    text-align: center;
+}
+.OL{
+    background-color: bisque;
+    margin: 5px;
+    border: 2px solid turquoise;
+
+}
+.My{
+    color: blueviolet;
+}
